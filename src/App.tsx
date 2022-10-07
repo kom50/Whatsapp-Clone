@@ -1,13 +1,11 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-      <h1>Hii 💗 firebase hosting</h1>
+    <div className="App text-4xl font-bold">
+      <h1>WhatsApp 🚀 Clone</h1>
     </div>
   )
 }
